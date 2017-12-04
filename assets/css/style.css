@@ -9,10 +9,7 @@ body{
   background-image: url("../images/spiration dark.png")
 }
 
-.navbar-brand{
-  border-style: soild;
-  color: red;
-}
+
 
 #navbarNavAltMarkup{
   justify-content: flex-end;
